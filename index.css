@@ -1,0 +1,14 @@
+.container {
+  font-family: droid serif,serif;
+}
+.body {
+  background-color:#c5d6ba;
+}
+.navbar {
+  background-color:#c5d6ba;
+}
+.pricing-overview {
+  width: auto;
+  border-bottom:lpx solid #e4ebf3;
+  padding:80px 30px;
+  position:relative;
